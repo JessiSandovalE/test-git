@@ -7,3 +7,4 @@ const products =[
 ]
 
 const minQuantity = 10;
+const maxQuantity = 100;
